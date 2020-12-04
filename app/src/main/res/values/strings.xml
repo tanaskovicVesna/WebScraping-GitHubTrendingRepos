@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub Trending Projects</string>
+    <string name="no_language">No language</string>
+    <string name="repository_name">Project name:</string>
+    <string name="repository_link">Repository link:</string>
+    <string name="programming_language">Programming language:</string>
+</resources>

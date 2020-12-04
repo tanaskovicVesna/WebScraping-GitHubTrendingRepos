@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Item_field_height">60dp</dimen>
+    <dimen name="text_size_edit_text">18sp</dimen>
+    <dimen name="padding_start">20dp</dimen>
+    <dimen name="padding">5dp</dimen>
+    <dimen name="marginTop">20dp</dimen>
+    <dimen name="marginStart">25dp</dimen>
+    <dimen name="marginStartEnd">30dp</dimen>
+    <dimen name="marginTopBottom">50dp</dimen>
+    <dimen name="marginTopBig">40dp</dimen>
+    <dimen name="marginTopSmall">10dp</dimen>
+</resources>

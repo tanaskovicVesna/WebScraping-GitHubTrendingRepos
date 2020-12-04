@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+
+    <TextView
+        android:id="@+id/reposTitle"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/Item_field_height"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center_vertical"
+        android:padding="@dimen/padding"
+        android:paddingStart="@dimen/padding_start"
+        android:text="Repository name"
+        android:textColor="@color/startColor"
+        android:textSize="@dimen/text_size_edit_text"
+        android:textStyle="bold">
+
+    </TextView>
+
+</LinearLayout>
